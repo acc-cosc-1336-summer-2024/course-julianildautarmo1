@@ -36,5 +36,4 @@ def option_2_hw_2():
         print("\n...Program Exited...\n")
 
 
-if __name__ == "__main__":
-    menu_all()
+menu_all()
